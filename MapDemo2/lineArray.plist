@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>desc</key>
+		<string>1. 向西南前行，从“雨花西路”走到“安德门大街”	
+200 米
+2. 向左转，进入安德门大街	
+120 米
+3. 走2号出口入口</string>
+		<key>pointArray</key>
+		<array>
+			<string>31.995211,118.763473</string>
+			<string>31.9933,118.762271</string>
+			<string>31.992226,118.76225</string>
+			<string>31.991808,118.761649</string>
+		</array>
+	</dict>
+	<dict>
+		<key>desc</key>
+		<string>坐地铁到鼓楼站</string>
+		<key>pointArray</key>
+		<array>
+			<string>31.991808,118.761649</string>
+			<string>31.996648,118.766198</string>
+			<string>32.006111,118.774137</string>
+			<string>32.01459,118.778172</string>
+			<string>32.0167,118.779674</string>
+			<string>32.029326,118.783965</string>
+			<string>32.058755,118.783965</string>
+		</array>
+	</dict>
+	<dict>
+		<key>desc</key>
+		<string>步行到鼓楼(190米)</string>
+		<key>pointArray</key>
+		<array>
+			<string>32.058991,118.783536</string>
+			<string>32.059428,118.782849</string>
+			<string>32.0603,118.782485</string>
+		</array>
+	</dict>
+	<dict>
+		<key>desc</key>
+		<string>乘坐 D2线空调</string>
+		<key>pointArray</key>
+		<array>
+			<string>32.0603,118.782485</string>
+			<string>32.084865,118.754311</string>
+			<string>32.085665,118.75416</string>
+			<string>32.093573,118.755491</string>
+			<string>32.094991,118.755577</string>
+			<string>32.099772,118.755834</string>
+			<string>32.108951,118.752487</string>
+			<string>32.118638,118.734226</string>
+			<string>32.132849,118.728604</string>
+			<string>32.145713,118.715258</string>
+			<string>32.153525,118.713026</string>
+			<string>32.20307,118.727102</string>
+		</array>
+	</dict>
+	<dict>
+		<key>desc</key>
+		<string>步行到南京信息工程大学</string>
+		<key>pointArray</key>
+		<array>
+			<string>32.204776,118.72766</string>
+			<string>32.205357,118.726416</string>
+			<string>32.204776,118.720708</string>
+			<string>32.206338,118.720193</string>
+		</array>
+	</dict>
+</array>
+</plist>
